@@ -14,7 +14,7 @@ Node JS Class for determing the precedence of two input semvers <https://semver.
 
 Please choose from the following 4 ways to run the project:
 
-**Note** the first two make use of Docker commands wrapped inside the bash scripts. If you have nodejs installed on your system, please see option 3.
+**Note** the first three make use of Docker commands wrapped inside the bash scripts. If you have nodejs installed on your system, please see option 3.
 
 ### Simple use
 

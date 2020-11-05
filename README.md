@@ -56,7 +56,7 @@ $ ./run.sh stack 3000
 ```
 
 After startup, you should see:
-TODO after github published
+![Stack screenshot](https://github.com/jgoldring/semver/blob/master/app.png "Stack Screenshot")
 
 ### Raw Nodejs Use
 

@@ -1,0 +1,26 @@
+{
+    "name": "semver-precedence-test",
+    "version": "0.1.0",
+    "description": "Provides a function that takes 2 input semvers, and determines if the first has precedence over the second",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "files": [
+        "index.js"
+    ],
+    "dependencies": {
+        "@godaddy/terminus": "^4.4.1",
+        "cors": "^2.8.5",
+        "express": "^5.0.0-alpha.8",
+        "http-terminator": "^2.0.3"
+    },
+    "devDependencies": {
+        "axios": "^0.21.0",
+        "chai": "^4.2.0",
+        "mocha": "^6.2.2"
+    },
+    "author": "Jamie Goldring",
+    "license": "ISC"
+}

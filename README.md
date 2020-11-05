@@ -47,7 +47,7 @@ The script will print the results to the terminal, for each line in the input fi
 
 ### Stack Use
 
-Starts up a simple Express/React app to compare two semvers! After the first run, it will reuse build artifacts.
+Starts up a simple Express/React app at http://localhost:<port> to compare two semvers! After the first run, it will reuse build artifacts.
 
 **Note** this requires docker to build and run. The dependencies can take a few minutes to build, this is sped up somewhat by the use of tmpfs.
 
